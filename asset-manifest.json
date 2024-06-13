@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/arun_edu/static/css/main.f5f529eb.css",
+    "main.js": "/arun_edu/static/js/main.08ce298b.js",
+    "static/media/back.webp": "/arun_edu/static/media/back.93d3f802b480eeabae07.webp",
+    "static/media/awrapper.webp": "/arun_edu/static/media/awrapper.031ce77a398171427673.webp",
+    "static/media/bg.webp": "/arun_edu/static/media/bg.baa1024a4ae092566a75.webp",
+    "index.html": "/arun_edu/index.html",
+    "main.f5f529eb.css.map": "/arun_edu/static/css/main.f5f529eb.css.map",
+    "main.08ce298b.js.map": "/arun_edu/static/js/main.08ce298b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5f529eb.css",
+    "static/js/main.08ce298b.js"
+  ]
+}
